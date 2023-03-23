@@ -1,0 +1,157 @@
+@media only screen and (max-width: 1200px) {
+  
+  .hero-text-box{
+    width: 100%;
+    padding: 0 5%;
+  }
+  .row{
+    padding: 0 2%;
+  }
+  
+}
+html, body {width: auto!important; overflow-x: hidden!important} 
+@media only screen and (max-width: 1023px) {
+  .long-copy{
+    width: 80%;
+    margin-left: 10%;
+  }
+  body{
+    font-size: 18px;
+    
+  }
+  section{
+    padding: 55px 0;
+
+  }
+  .step-box{
+    margin-top: 10px;
+  }
+  .step-box:last-child{
+    margin-top: 10px;
+  }
+  .works-step{
+    margin-bottom: 40px;
+  }
+  .works-step:last-child{
+    margin-bottom: 40px;
+  }
+  .app-screen{
+    width: 50%;
+  }
+  .icon-small{
+    width: 17px;
+    margin-top: 5px;
+  }
+  .city-feature{
+    font-size: 90%;
+  }
+  .plan-box{
+    width: 100%;
+    margin-left: 0%;
+  }
+  .plan-price{
+    font-size: 250%;
+  }
+  .contact-form{
+    width: 80%;
+  }
+  .section-testimonials{
+    overflow: hidden;
+    padding: 0px 0;
+  }
+  .testimonial-head{
+    margin: 0;
+  }
+  .section-forms{
+    height: max-content;
+  }
+  textarea{
+    resize: none;
+  }
+
+}
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 16px;
+    
+  }
+  section{
+    padding: 80px 0px;
+  }
+  .row,
+  .hero-text-box{
+    padding: 0 4%;
+  }
+   
+  .col{
+    width: 100%;
+    margin: 0 0 4% 0;
+  }
+ 
+  .main-nav{ display: none;
+
+  }
+  
+  .app-screen{ width: 40%;
+
+  }
+  
+  .step-box:first-child{
+    text-align: center;
+  }
+  
+  .works-step div{
+    height: 40px;
+    width: 40px;
+    margin-right: 15px;
+    padding: 4px;
+    font-size: 120%
+  }
+  .works-step{
+    margin-bottom: 20px;
+  }
+  .works-step:last-of-type{
+    margin-bottom: 20px;
+  }
+.section-steps{
+  overflow: hidden;
+}
+.section-cities{
+  overflow: hidden;
+}
+.section-plans{
+  overflow: hidden;
+  
+}
+.section-forms{
+  overflow: hidden;
+}
+.contact-form{
+  overflow: hidden;
+}
+.footer-nav,
+.social-links{
+  float: none;
+  text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+  
+  section{
+    padding: 25px 0;
+  }
+  .contact-form{
+    width: 100%;
+  }
+  .btn-app img{
+    width:130px;
+    
+    align-items: center;
+  }
+}
+
+
+  
+  
